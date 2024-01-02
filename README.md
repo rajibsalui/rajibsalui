@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Developer
 -------------------
 
-I'm Rajib Salui, an Front-End Developer driven by a passion for crafting captivating digital experiences. Armed with a B.Tech in Information Technology, I wield a diverse skill set encompassing JavaScript, HTML, CSS, Java, Python and C. My focus lies in front-end development, where I blend these languages and tools to craft seamless, visually stunning interfaces that resonate deeply with users. Meticulous in my coding approach, I ensure not just functionality but also the highest standards of quality and reliability in every project.
+I'm Rajib Salui, an Front-End Developer driven by a passion for crafting captivating digital experiences. Armed with a B.Tech in Computer Science, I wield a diverse skill set encompassing JavaScript, HTML, CSS, Java, Python and C. My focus lies in front-end development, where I blend these languages and tools to craft seamless, visually stunning interfaces that resonate deeply with users. Meticulous in my coding approach, I ensure not just functionality but also the highest standards of quality and reliability in every project.
 
 * 🌍  I'm based in India, Kolkata
 * ✉️  You can contact me at [rajibsalui2003@gmail.com](mailto:rajibsalui2003@gmail.com)
