@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajibsalui&show_icons=true&locale=en" alt="rajibsalui" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajibsalui&" alt="rajibsalui" /></p>
+[![An image of @zeus2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zeus2003)](https://holopin.io/@zeus2003)
