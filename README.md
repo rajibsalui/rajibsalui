@@ -1,9 +1,16 @@
-<h1 align="center">Hi 👋, I'm Rajib Salui</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center">Hii , I am Rajib Salui <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%ffffff&size=25&weight=800&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Engineer;Machine+Learning+Developer;Backend+Developer">
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<img align="right" alt="Coding" width="400"  src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajibsalui&label=Profile%20views&color=0e75b6&style=flat" alt="rajibsalui" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajibsalui" alt="rajibsalui" /></a> </p>
+
 
 - 🔭 I’m currently working on **GPS Tracking System**
 
@@ -13,12 +20,15 @@
 
 - 📫 How to reach me **rajibsalui2003@gmail.com**
 
-- ⚡ Fun fact **I love to**
+- ⚡ Fun fact **I love to share memes**
 
+
+<p style="margin-top:150px"></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajibsalui" alt="rajibsalui" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rajibsalui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajibsalui" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rajibsalui2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajibsalui2003" height="30" width="40" /></a>
+<a href="https://x.com/salui_rajib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="salui_rajib" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
